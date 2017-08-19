@@ -1,0 +1,38 @@
+body {
+	background-image: url("../images/hogwartsgif.gif");
+	background-size: 120%;
+	font-family: "Fontdiner Swanky";
+
+}
+
+*{
+	box-sizing: border-box;
+}
+
+/*.jumbotron {
+	background: url('images/brillant.png');
+}*/
+
+
+h1 {
+	text-align: center;
+	font-family: "Fontdiner Swanky";
+	font-size:50px;
+	color:silver;
+}
+
+h2 {
+	font-size: arial, times;
+}
+
+button {
+	font-family: arial, times;
+    height:auto;
+    display:inline-block;
+
+}
+#subwrapper {
+	text-align: center;
+	color:teal;
+
+}
